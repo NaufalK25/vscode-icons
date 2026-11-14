@@ -2000,6 +2000,12 @@ export const extensions: FileCollection = {
       filename: true,
     },
     {
+      icon: 'glama',
+      extensions: ['glama.json'],
+      filename: true,
+      light: true,
+    },
+    {
       icon: 'gleam',
       extensions: ['gleam'],
       languages: [languages.gleam],
